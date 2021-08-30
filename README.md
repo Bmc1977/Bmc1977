@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bmc1977 (Braxton Lamey)
 - 👀 I’m interested in Networking and tasks related to being a system administrator.
-- 🌱 I’m currently studing Network and Software Engineering at Indiana Tech. (Go Warriors!)
+- 🌱 I’m currently studying Software Engineering at Indiana Tech. (Go Warriors!)
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
   - Facebook -> Braxton Lamey
